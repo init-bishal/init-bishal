@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @init-bishal
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming and learning new technologies
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bbishal.g01@gmail.com
 
 <!---
